@@ -41,8 +41,9 @@ Add images of the working project.
 
 ![Project Image 1](image1.jpeg)
 ![Project Image 2](image2.jpeg)
-```
-# 💻 Code
+
+
+# Code
 
 The Arduino code for this project is available in the repository:
 
