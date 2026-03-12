@@ -39,8 +39,8 @@ Add the circuit diagram image in the **images folder** of the repository.
 
 Add images of the working project.
 
-![Project Image 1](project1.jpg)
-![Project Image 2](project2.jpg)
+![Project Image 1](image1.jpg)
+![Project Image 2](image2.jpg)
 ```
 # 💻 Code
 
